@@ -166,7 +166,6 @@ Local 架構(開發)
 
 存放工具程式檔
 
-<img src="img\java_dev_share37.png" width=32px />
 
 <img src="img\java_dev_share38.png" width=86px />
 
@@ -208,7 +207,7 @@ __When AppEnvironment=__  <span style="color:#FF0000"> __production__ </span>
 
 # API 文件製作 – 總覽
 
-<img src="img\java_dev_share43.png" width=800px />
+<img src="img\java_dev_share43.png" width=1200px />
 
 <img src="img\java_dev_share44.png" width=800px />
 
@@ -222,7 +221,7 @@ __When AppEnvironment=__  <span style="color:#FF0000"> __production__ </span>
 
 <span style="color:#0070C0">Extdoc</span>  <span style="color:#0070C0">執行時需要的設定、參數、樣版</span>  <span style="color:#0070C0">\.\.</span>  <span style="color:#0070C0">等都已經設定好，你只需要正確設定批次檔位置。</span>
 
-<img src="img\java_dev_share48.png" width=800px />
+<img src="img\java_dev_share48.png" width=1200px />
 
 <img src="img\java_dev_share49.png" width=429px />
 
@@ -234,7 +233,7 @@ __When AppEnvironment=__  <span style="color:#FF0000"> __production__ </span>
 
 # API 文件製作 – ExtDoc 定義檔
 
-<img src="img\java_dev_share52.png" width=317px />
+<img src="img\java_dev_share52.png" width=400px />
 
 <img src="img\java_dev_share53.png" width=192px />
 
@@ -268,7 +267,7 @@ Foxconn NWInG Confidential
 
 # API 文件撰寫範例 二
 
-<img src="img\java_dev_share61.png" width=500px />
+<img src="img\java_dev_share61.png" width=1200px />
 
-<img src="img\java_dev_share62.png" width=500px />
+<img src="img\java_dev_share62.png" width=1200px />
 
